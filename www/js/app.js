@@ -44,6 +44,16 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
 
   // Each tab has its own nav history stack:
 
+  .state('tab.video', {
+    url: '/video',
+    views: {
+      'tab-video': {
+        templateUrl: 'templates/tab-video.html',
+        controller: 'VideoCtrl'
+      }
+    }
+  })
+
   .state('tab.dash', {
     url: '/dash',
     views: {

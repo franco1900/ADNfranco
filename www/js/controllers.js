@@ -1,5 +1,7 @@
 angular.module('starter.controllers', [])
 
+.controller('VideoCtrl', function($scope) {})
+
 .controller('DashCtrl', function($scope) {})
 
 .controller('AdnCtrl', function($scope) {})
