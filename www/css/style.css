@@ -10,13 +10,13 @@ p{
 	font-family: oblique bold 160% cursive;
 }
 ion-view{
-	background-image: url(https://img.freepik.com/vector-gratis/fondo-gradiente-color-rosa_23-2147726823.jpg?size=338&ext=jpg);
+	background-image: url(https://cdn.pixabay.com/photo/2016/08/06/11/10/background-1574176__340.jpg);
 	background-size: cover;
 	background-position: cover;
 	background-attachment: fixed;
 }
 .dna {
-  background: red;
+  background: black;
   height: 2px;
   width: 200px;
   margin: 30px auto;
@@ -29,7 +29,7 @@ ion-view{
   width: 20px;
   display: block;
   height: 20px;
-  background: black;
+  background: gold;
   position: absolute;
   border-radius: 50%;
   margin-top: -10px;
@@ -373,7 +373,6 @@ height: 45px;
 }
 
 h2{
-  background-color: green;
   font-size: 300%;
   font-family: algerian;
   color: white;
